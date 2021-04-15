@@ -10,7 +10,7 @@ namespace TestGit
     {
         static void print()
         {
-            Console.WriteLine(" nj aeyrwbz!")
+            Console.WriteLine(" nj aeyrwbz!");
         }
         static void Main(string[] args)
         {
